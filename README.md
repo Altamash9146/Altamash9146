@@ -65,7 +65,7 @@ I'm a MERN stack developer with a passion for crafting robust and scalable web a
       <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" width="100%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
