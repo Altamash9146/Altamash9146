@@ -59,9 +59,11 @@ I'm a MERN stack developer with a passion for crafting robust and scalable web a
 
 ## 📊 GitHub Stats
 
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 10px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" />
+</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages" width="40%" />
 </div>
 
