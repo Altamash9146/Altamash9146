@@ -59,13 +59,21 @@ I'm a MERN stack developer with a passion for crafting robust and scalable web a
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 10px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages" width="40%" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages" width="70%" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Altamash9146&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
