@@ -1,4 +1,3 @@
-
 # Hi there 👋 I'm Altamash Sayyed
 
 > Full Stack Web Developer passionate about building scalable applications with modern technologies
@@ -61,9 +60,9 @@ I'm a MERN stack developer with a passion for crafting robust and scalable web a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages"  width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages" width="40%" />
 </div>
 
 ## 🏆 GitHub Trophies
