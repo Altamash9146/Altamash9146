@@ -62,7 +62,7 @@ I'm a MERN stack developer with a passion for crafting robust and scalable web a
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" width="100%" />
@@ -70,7 +70,7 @@ I'm a MERN stack developer with a passion for crafting robust and scalable web a
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages" width="70%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages" width="40%" />
     </td>
   </tr>
 </table>
