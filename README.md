@@ -81,4 +81,6 @@ I'm a MERN stack developer with a passion for crafting robust and scalable web a
 ## 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Altamash9146&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Profile views](https://komarev.com/ghpvc/?username=Altamash9146&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
