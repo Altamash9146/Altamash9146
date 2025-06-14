@@ -11,7 +11,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a MERN stack developer with a passion for crafting robust and scalable web applications. With expertise in JavaScript, React.js, Node.js, Express.js, and MongoDB, I strive to create elegant solutions to complex problems. I'm committed to writing clean, maintainable code and implementing industry best practices.
+I'm a Full Stack Software Engineer with a passion for building scalable, secure, and high-performance web applications.
+
+I work primarily with **JavaScript/TypeScript**, specializing in technologies like **Next.js, NestJS, React, Node.js, Prisma, and PostgreSQL**. On the cloud side, I’ve built and deployed applications using **AWS services** including **Lambda, S3, and DynamoDB**.
+
+From crafting smooth frontend experiences to architecting robust backend systems, I enjoy solving real-world problems through clean, maintainable code. I follow Agile practices, value collaboration, and constantly explore better ways to optimize user experience, app performance, and system security.
+
+Always learning. Always building. Let’s connect and create something meaningful!
+
 
 ## 🌐 Connect With Me
 
