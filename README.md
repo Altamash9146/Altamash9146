@@ -83,27 +83,13 @@ I've shipped multiple production systems end-to-end — AI-powered risk engines,
 Agentic AI systems &nbsp;·&nbsp; MCP (Model Context Protocol) servers &nbsp;·&nbsp; Multi-agent orchestration
 
 ---
+### GitHub Stats & Trophies
 
-### GitHub Stats
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Altamash9146&theme=dark&hide_border=true" width="49%" />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Altamash9146&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="45%" />
-    </td>
-  </tr>
-</table>
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Altamash9146&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Altamash9146&title=Commits,PullRequest&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=2&row=1" width="40%" />
+</p>
 
 ---
 
