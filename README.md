@@ -1,77 +1,97 @@
-# Hi there 👋 I'm Altamash Sayyed
+<h2 align="center">Altamash Sayyed</h2>
+<p align="center">
+  Senior Full Stack Engineer &nbsp;·&nbsp; TypeScript · Next.js · NestJS · PostgreSQL · Redis
+  <br/>
+  Building AI-integrated systems, real-time platforms & production SaaS
+</p>
 
-> Full Stack Web Developer passionate about building scalable applications with modern technologies
+<p align="center">
+  <a href="https://www.linkedin.com/in/altamash-sayyed-a173a3170/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:altamashsayyed539@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Altamash9146&label=Profile+views&color=0e75b6&style=flat"/>
+</p>
 
-- 🔭 Currently working as a **Full Stack Web Developer**
-- 🌱 Always learning **Emerging Technologies**
-- 👯 Open to collaborate on **Innovative Web Projects**
-- 💬 Ask me about **Best Coding Practices & MERN Stack Development**
-- 📫 Reach me at: **sayyedaltamash853@gmail.com**
-- 😄 Pronouns: He/Him
+---
 
-## 🧑‍💻 About Me
+### What I build
 
-I'm a Full Stack Software Engineer with a passion for building scalable, secure, and high-performance web applications.
+I've shipped multiple production systems end-to-end — AI-powered risk engines, real-time communication platforms, and multi-tenant SaaS. I own products from database schema to deployment.
 
-I work primarily with **JavaScript/TypeScript**, specializing in technologies like **Next.js, NestJS, React, Node.js, Prisma, and PostgreSQL**. On the cloud side, I’ve built and deployed applications using **AWS services** including **Lambda, S3, and DynamoDB**.
+**Currently at Algorizz:**
 
-From crafting smooth frontend experiences to architecting robust backend systems, I enjoy solving real-world problems through clean, maintainable code. I follow Agile practices, value collaboration, and constantly explore better ways to optimize user experience, app performance, and system security.
+- **FCI — Predictive Fumigation Risk Engine** &nbsp;|&nbsp; AI system for grain warehouse management across India. Integrates an XGBoost ML model + Azure OpenAI to score fumigation risk (0–100) from IoT sensor data in real time and generate phosphine dosage recommendations. **Reduced data seeding pipeline latency from 4–5 min → under 30s.**
+- **Surge — EdTech Platform** &nbsp;|&nbsp; Built an AI tutor powered by RAG (Retrieval-Augmented Generation). **Optimized user profile and chat history APIs from 2–3s → sub-900ms** via query optimization and Redis caching.
+- **University Timetable Optimizer** &nbsp;|&nbsp; Designed and shipped the full system end-to-end.
 
-Always learning. Always building. Let’s connect and create something meaningful!
+**Previously at HRConnectPro (Mackinlay):**
 
+- Job recommendation engine — matched candidate profiles against job descriptions semantically
+- Conversational assistant guiding job seekers through application workflows
 
-## 🌐 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altamash-sayyed-a173a3170/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayyedaltamash853@gmail.com)
+### Featured Projects
 
-## 💻 Tech Stack
+| Project | Description | Stack | Demo |
+|---|---|---|---|
+| **Multi-Tenant SaaS** | Project management platform — multi-tenancy, RBAC, Kanban boards, real-time collaboration, audit logs, email invites | Next.js 15 · NestJS · PostgreSQL · Socket.IO · Redis · Docker | [Live](https://saas-app-fe.vercel.app) |
+| **Real-Time Chat** | Full chat system — typing indicators, read receipts, file sharing, offline message queue, Redis-scaled WebSockets | Next.js 14 · NestJS · Socket.IO · Redis · TypeORM | [Live](https://real-time-chat-app-web-one.vercel.app) |
+| **URL Shortener** | Link shortening with click analytics and QR code generation | Next.js 14 · NestJS · Prisma · Redis | [Live](https://url-shortener-frontend.vercel.app) |
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+---
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### Tech Stack
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+
+**Backend**
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Data & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Cloud & Deployment
+**Cloud & AI**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-### Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Tools**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## 📊 GitHub Stats
+---
+
+### Currently exploring
+
+Agentic AI systems &nbsp;·&nbsp; MCP (Model Context Protocol) servers &nbsp;·&nbsp; Multi-agent orchestration
+
+---
+
+### GitHub Stats
 
 <table>
   <tr>
-    <td >
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td >
+    <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
@@ -82,12 +102,9 @@ Always learning. Always building. Let’s connect and create something meaningfu
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Altamash9146&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Altamash9146&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![Profile views](https://komarev.com/ghpvc/?username=Altamash9146&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
+
+*Open to Senior SDE / Full Stack roles at product-first companies.*
