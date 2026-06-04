@@ -89,21 +89,21 @@ Agentic AI systems &nbsp;·&nbsp; MCP (Model Context Protocol) servers &nbsp;·&
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Altamash9146&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Altamash9146&theme=swift&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Altamash9146&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=swift&hide_border=false&layout=compact" alt="Top Languages" width="40%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash9146&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="45%" />
     </td>
   </tr>
 </table>
 
 ### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Altamash9146&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Altamash9146&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
