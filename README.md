@@ -1,36 +1,44 @@
 <h2 align="center">Altamash Sayyed</h2>
+
 <p align="center">
-  Senior Full Stack Engineer &nbsp;·&nbsp; TypeScript · Next.js · NestJS · PostgreSQL · Redis
+  Senior Full Stack Engineer &nbsp;·&nbsp; TypeScript · Next.js · NestJS · PostgreSQL · Redis · Azure OpenAI
   <br/>
-  Building AI-integrated systems, real-time platforms & production SaaS
+  Building fintech platforms, AI-integrated systems, and real-time SaaS — end-to-end
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/altamash-sayyed-a173a3170/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:altamashsayyed539@gmail.com">
+  &nbsp;
+  <a href="mailto:sayyedaltamash853@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Altamash9146&label=Profile+views&color=0e75b6&style=flat"/>
+  &nbsp;
+  <a href="https://github.com/Altamash9146">
+    <img src="https://komarev.com/ghpvc/?username=Altamash9146&label=Profile+views&color=6d28d9&style=flat"/>
+  </a>
 </p>
 
 ---
 
 ### What I build
 
-I've shipped multiple production systems end-to-end — AI-powered risk engines, real-time communication platforms, and multi-tenant SaaS. I own products from database schema to deployment.
+I ship production systems end-to-end — from database schema to real-time UI. I don't just contribute to features; I own them from the first Prisma migration to the PR merge.
 
-**Currently at Algorizz:**
+**Currently at Algorizz** &nbsp;*(Jan 2025 – Present)*
 
-- **FCI — Predictive Fumigation Risk Engine** &nbsp;|&nbsp; AI system for grain warehouse management across India. Integrates an XGBoost ML model + Azure OpenAI to score fumigation risk (0–100) from IoT sensor data in real time and generate phosphine dosage recommendations. **Reduced data seeding pipeline latency from 4–5 min → under 30s.**
-- **Surge — EdTech Platform** &nbsp;|&nbsp; Built an AI tutor powered by RAG (Retrieval-Augmented Generation). **Optimized user profile and chat history APIs from 2–3s → sub-900ms** via query optimization and Redis caching.
-- **University Timetable Optimizer** &nbsp;|&nbsp; Designed and shipped the full system end-to-end.
+- **ChargeUp — EV Fintech CRM & Payments** &nbsp;|&nbsp; Built PaymentService (TypeScript · Express · Prisma · Inversify IoC) handling Razorpay one-time payments, subscription autopay, and token-based UPI mandates. 15-table PostgreSQL payment schema, HMAC webhook handler, daily cron jobs for EMI lifecycle (upcoming → pending → overdue) and pre-debit SMS scheduling. CRM frontend (Next.js 15, React 19) with TanStack Table, ApexCharts dashboards, jsPDF exports. Collaborated across 7 microservices.
 
-**Previously at HRConnectPro (Mackinlay):**
+- **FCI — Predictive Fumigation Risk Engine** &nbsp;|&nbsp; Integrated **Azure OpenAI (gpt-4o-mini) tool-calling agent** in NestJS 11 backend — 4 LLM tools orchestrating DB lookups, ML model predictions, and weighted risk scoring with natural-language recommendations. Built Digital Twin frontend (Next.js 16) with Leaflet geo-map and Recharts heatmaps across Indian grain warehouses.
 
-- Job recommendation engine — matched candidate profiles against job descriptions semantically
-- Conversational assistant guiding job seekers through application workflows
+- **Surge — AI Voice Tutoring Platform** &nbsp;|&nbsp; Real-time WebSocket audio streaming (base64 WAV via Socket.IO), PDF RAG pipeline, multi-role dashboards (student/tutor/mentor/super-admin). **Optimized APIs from 2–3s → sub-900ms** via Redis caching and query indexing.
+
+- **Resume AI** &nbsp;|&nbsp; JWT-secured interview scheduling — email links with 30-day expiry + session ID validation, Nodemailer SMTP, candidate page auto-fill.
+
+**Previously at Mackinlay** &nbsp;*(Mar 2024 – Oct 2024)*
+
+- Built and maintained React/TypeScript components for a SaaS product; contributed to PostgreSQL schema evolution and query optimization.
 
 ---
 
@@ -38,9 +46,9 @@ I've shipped multiple production systems end-to-end — AI-powered risk engines,
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| **Multi-Tenant SaaS** | Project management platform — multi-tenancy, RBAC, Kanban boards, real-time collaboration, audit logs, email invites | Next.js 15 · NestJS · PostgreSQL · Socket.IO · Redis · Docker | [Live](https://saas-app-fe.vercel.app) |
-| **Real-Time Chat** | Full chat system — typing indicators, read receipts, file sharing, offline message queue, Redis-scaled WebSockets | Next.js 14 · NestJS · Socket.IO · Redis · TypeORM | [Live](https://real-time-chat-app-web-one.vercel.app) |
-| **URL Shortener** | Link shortening with click analytics and QR code generation | Next.js 14 · NestJS · Prisma · Redis | [Live](https://url-shortener-frontend.vercel.app) |
+| **Multi-Tenant SaaS** | Project management platform — org-scoped isolation, RBAC, Kanban drag-and-drop, real-time collaboration via Socket.IO, full audit trail, email invites | Next.js 15 · NestJS · PostgreSQL · Prisma · Socket.IO · Docker | [Live ↗](https://saas-app-fe.vercel.app) |
+| **Real-Time Chat** | Full chat system — private/group rooms, typing indicators, read receipts (sent/delivered/read), file sharing, offline message queue, Redis-scaled WebSockets | Next.js 14 · NestJS · Socket.IO · PostgreSQL · Redis · Docker | [Live ↗](https://real-time-chat-app-web-one.vercel.app) |
+| **URL Shortener** | Custom slugs, expiry control, click analytics, Redis-cached redirects — DB only hit on cold miss | Next.js · NestJS · PostgreSQL · Prisma · Redis | [Live ↗](https://url-shortener-frontend-jet-three.vercel.app) |
 
 ---
 
@@ -56,6 +64,7 @@ I've shipped multiple production systems end-to-end — AI-powered risk engines,
 **Backend**
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -66,13 +75,10 @@ I've shipped multiple production systems end-to-end — AI-powered risk engines,
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Cloud & AI**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**AI & Tools**
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-**Tools**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -83,14 +89,14 @@ I've shipped multiple production systems end-to-end — AI-powered risk engines,
 Agentic AI systems &nbsp;·&nbsp; MCP (Model Context Protocol) servers &nbsp;·&nbsp; Multi-agent orchestration
 
 ---
-### GitHub Stats & Trophies
+
+### GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Altamash9146&theme=dark&hide_border=true" width="49%" />
-
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Altamash9146&title=Commits,PullRequest&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=2&row=1" width="40%" />
 </p>
 
 ---
 
-*Open to Senior SDE / Full Stack roles at product-first companies.*
+*Open to Senior SDE / Full Stack roles at product-first companies. DM or email — I respond fast.*
